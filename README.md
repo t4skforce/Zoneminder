@@ -1,7 +1,7 @@
 # Zoneminder IP-Camera control scripts
 IP-Camera control scripts
 
-## Add protocol file
+## Add protocol file Wanscam HW0025
 ```
 cd /usr/share/perl5/ZoneMinder/Control/
 wget https://github.com/t4skforce/Zoneminder/raw/master/WanscamHW0025.pm
