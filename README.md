@@ -2,9 +2,11 @@
 IP-Camera control scripts
 
 ## Add protocol file
+```
 cd /usr/share/perl5/ZoneMinder/Control/
 wget https://github.com/t4skforce/Zoneminder/raw/master/WanscamHW0025.pm
 chmod +x ./WanscamHW0025.pm
+```
 
 ## Add Protocol in ZoneMinder
 ###Enable PTZ Support on ZoneMinder**
