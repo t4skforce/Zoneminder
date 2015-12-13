@@ -1,7 +1,7 @@
 # ==========================================================================
 #
 # ZoneMinder Wanscam HW0025 IP Control Protocol Module, $Date: 2009-11-25 09:20:00 +0000 (Wed, 04 Nov 2009) $, $Revision: 0001 $
-# Copyright (C) 2001-2008 Florian Neumair
+# Copyright (C) 2001-2015 Florian Neumair
 # Modified for use with Foscam FI8918W IP Camera by Dave Harris
 # Modified Feb 2011 by Howard Durdle (http://durdl.es/x) to:
 #      fix horizontal panning, add presets and IR on/off
@@ -25,6 +25,10 @@
 #
 # This module contains the implementation of the Wanscam HW0025 IP camera control
 # protocol
+#
+# Known working Devices:
+# * Wanscam HW0025
+# * IPCC-7210W
 #
 package ZoneMinder::Control::WanscamHW0025;
  
