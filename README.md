@@ -21,6 +21,7 @@ Click on edit and add a new control with these details:
 ```
 Name:WANSCAM HW0025
 Type:Remote
+Protocol: WanscamHW0025
 Can Wake:Tick
 Can Sleep:Tick
 Can Reset:Tick
