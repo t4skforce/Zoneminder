@@ -1,7 +1,14 @@
 # Zoneminder IP-Camera control scripts
 IP-Camera control scripts
 
-## Add protocol file Wanscam HW0025
+## Working Cameras
+### Wanscam HW0025 
+* [amazon.com](http://www.amazon.com/Wanscam-HW0025-Infrared-Wireless-Outdoor/dp/B00HPWSVBQ/)
+
+### IPCC-7210W 
+* [amazon.com](http://www.amazon.com/IPCC-7210W-Wireless-Nightvision-BlueIris-compatible/dp/B00GALXXWU/)
+
+## Add protocol file WanscamHW0025.pm
 ```
 cd /usr/share/perl5/ZoneMinder/Control/
 wget https://github.com/t4skforce/Zoneminder/raw/master/WanscamHW0025.pm
